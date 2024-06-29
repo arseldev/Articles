@@ -69,8 +69,13 @@ _Ikuti petunjuk dibawah untuk penggunaan program._
    cd Articles
    ```
 3. Jalankan program dengan server
+
    ```sh
    php -S localhost:3000
+
+   Akun admin:
+   - username : admin
+   - password : admin
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
