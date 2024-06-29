@@ -16,7 +16,7 @@
   <p align="center">
     Website penyedia artikel yang dikelola oleh admin.
     <br />
-    <a href="https://arseldev.000webhostapp.com/"><strong>Explore the Website »</strong></a>
+    <a href="https://arseldev.000webhostapp.com/articles/"><strong>Explore the Website »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
@@ -31,7 +31,7 @@
 
 ## Tentang Articles
 
-[![Product Name Screen Shot][product-screenshot]](https://foods-arseldev.000webhostapp.com/)
+[![Product Name Screen Shot][product-screenshot]](https://arseldev.000webhostapp.com/articles/)
 
 Temukan berbagai artikel informatif dan terpercaya untuk membantu Anda tetap terkini dengan berita dan informasi terbaru di berbagai bidang. Bergabunglah dengan Newsletter kami dan dapatkan pemberitahuan ketika artikel-artikel baru dipublikasikan..
 
