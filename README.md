@@ -68,7 +68,11 @@ _Ikuti petunjuk dibawah untuk penggunaan program._
    ```sh
    cd Articles
    ```
-3. Jalankan program dengan server
+3. Buat database articles dan import data dummy
+   ```sh
+   /"databases (import ini)"/articles.sql
+   ```
+4. Jalankan program dengan server
 
    ```sh
    php -S localhost:3000
